@@ -2,7 +2,7 @@ package Lote1p1;
 /* 
 Programa: Receba os coeficientes A, B e C de uma equação do 2º grau (AX²+BX+C=0). Calcule e mostre as raízes reais (considerar que a equação possui 2 raízes).
 Programador: Marcela Maciel, CodeSorceress24.
-versão 1.0
+Versão 1.0
 */
 import javax.swing.JOptionPane;
 public class Ex05Lote1p1 {
@@ -23,7 +23,7 @@ public class Ex05Lote1p1 {
             raiz1 = (-b+Math.sqrt(delta))/(2*a);
             raiz2 = (-b-Math.sqrt(delta))/(2*a);
             // saída de dados.
-            JOptionPane.showMessageDialog(null, "A equação possui as seguintes raízes reais: " + raiz1 + " e " + raiz2);
+            JOptionPane.showMessageDialog(null, "A equação possui as seguintes raízes reais: " + raiz1 + " e " + raiz2 + ".");
         }
     }
 }

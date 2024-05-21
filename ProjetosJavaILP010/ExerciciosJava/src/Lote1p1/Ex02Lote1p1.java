@@ -2,7 +2,7 @@ package Lote1p1;
 /* 
 Programa: Receba o salário de um funcionário e mostre o novo salário com reajuste de 15%.
 Programador: Marcela Maciel, CodeSorceress24.
-versão 1.0
+Versão 1.0
 */
 import javax.swing.JOptionPane;
 public class Ex02Lote1p1 {
@@ -13,6 +13,6 @@ public class Ex02Lote1p1 {
         salario = Double.parseDouble(JOptionPane.showInputDialog("Digite o salário do funcionário: "));
         reajuste = salario*1.15;
         // saída de dados.
-        JOptionPane.showMessageDialog(null, "O novo salário com reajuste de 15% é: " + reajuste);
+        JOptionPane.showMessageDialog(null, "O novo salário com reajuste de 15% é: " + reajuste + ".");
     }
 }

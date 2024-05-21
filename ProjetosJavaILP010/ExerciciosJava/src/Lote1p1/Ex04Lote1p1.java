@@ -13,6 +13,6 @@ public class Ex04Lote1p1 {
         celsius = Double.parseDouble(JOptionPane.showInputDialog("Digite a temperatura em graus Celsius: "));
         fahrenheit = (9*celsius+160)/5;
         // saída de dados.
-        JOptionPane.showMessageDialog(null, "A temperatura em Fahrenheit é: " + fahrenheit);
+        JOptionPane.showMessageDialog(null, "A temperatura em Fahrenheit é: " + fahrenheit + ".");
     }
 }

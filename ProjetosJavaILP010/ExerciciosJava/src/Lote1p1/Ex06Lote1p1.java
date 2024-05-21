@@ -2,7 +2,7 @@ package Lote1p1;
 /* 
 Programa: Receba os valores em x e y. Efetua a troca de seus valores e mostre seus conteúdos.
 Programador: Marcela Maciel, CodeSorceress24.
-versão 1.0
+Versão 1.0
 */
 import javax.swing.JOptionPane;
 public class Ex06Lote1p1 {
