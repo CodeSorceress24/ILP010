@@ -7,12 +7,12 @@ versão 1.0
 import javax.swing.JOptionPane;
 public class Ex01Lote1p1 {
     public static void main(String[] args) {
-        //declaração de variáveis.
+        // declaração de variáveis.
         int lado, area;
-        //entrada de dados.
+        // entrada de dados.
         lado = Integer.parseInt(JOptionPane.showInputDialog("Digite o valor do lado: "));
         area = lado*lado;
-        //saída de dados.
+        // saída de dados.
         JOptionPane.showMessageDialog(null, "A área do quadrado é: " + area);
     }
 }

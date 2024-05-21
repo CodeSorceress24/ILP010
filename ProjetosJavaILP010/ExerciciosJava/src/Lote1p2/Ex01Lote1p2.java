@@ -17,8 +17,7 @@ public class Ex01Lote1p2 {
         JOptionPane.showMessageDialog(null, "A área do quadrado é: " + area);
     }
 
-        // funcão
-        .
+        // funcão.
     static int functionArea(int x) {
         // declaração de variáveis.
         int a;
