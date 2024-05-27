@@ -13,7 +13,7 @@ public class Ex15Lote1p1 {
         cateto1 = Double.parseDouble(JOptionPane.showInputDialog("Digite o valor do primeiro cateto: "));
         cateto2 = Double.parseDouble(JOptionPane.showInputDialog("Digite o valor do segundo cateto: "));
         // processamento de dados. 
-        hipotenusa = (cateto1*Math.pow(cateto1, 2)) + (cateto2*Math.pow(cateto2, 2));
+        hipotenusa = (Math.pow(cateto1, 2)) + (Math.pow(cateto2, 2));
         hipotenusa = Math.sqrt(hipotenusa);
         // "o quadrado da medida da hipotenusa é igual à soma dos quadrados das medidas dos catetos", logohipotenusa = c² = a²+b².
         // saída de dados.
