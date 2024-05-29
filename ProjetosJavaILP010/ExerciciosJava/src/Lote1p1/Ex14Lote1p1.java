@@ -10,8 +10,8 @@ public class Ex14Lote1p1 {
         // declaração de variáveis.
         int primeiroAngulo, segundoAngulo, terceiroAngulo;
         // entrada de dados.
-        primeiroAngulo = Integer.parseInt(JOptionPane.showInputDialog("Digite o valor do primeiro ângulo do retângulo: "));
-        segundoAngulo = Integer.parseInt(JOptionPane.showInputDialog("Digite o valor do segundo ângulo do retângulo: "));
+        primeiroAngulo = Integer.parseInt(JOptionPane.showInputDialog("Digite o valor do primeiro ângulo do triângulo: "));
+        segundoAngulo = Integer.parseInt(JOptionPane.showInputDialog("Digite o valor do segundo ângulo do triângulo: "));
         // processamento de dados. 
         terceiroAngulo = 180 - primeiroAngulo - segundoAngulo;
         if (primeiroAngulo <= 0 || segundoAngulo <= 0 || terceiroAngulo <= 0 || primeiroAngulo + segundoAngulo + terceiroAngulo > 180) {
