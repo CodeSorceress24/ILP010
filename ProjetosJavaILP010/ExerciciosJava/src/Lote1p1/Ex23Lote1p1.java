@@ -6,7 +6,7 @@ Versão 1.0
 */
 import javax.swing.JOptionPane;
 public class Ex23Lote1p1 {
-    public static void main(String[] args) {
+    public static void main(String[] args){
         // Declaração de variáveis
         int valor1, valor2, valor3, valor4, temp;
         // entrada dos três primeiros valores em ordem crescente.

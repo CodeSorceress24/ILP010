@@ -5,9 +5,8 @@ Programador: Marcela Maciel, CodeSorceress24.
 Versão 1.0
 */
 import javax.swing.JOptionPane;
-
 public class Ex25Lote1p1 {
-    public static void main(String[] args) {
+    public static void main(String[] args){
         // entrada de dados.
         int horaInicio = Integer.parseInt(JOptionPane.showInputDialog("Digite a hora de início do jogo (0 a 23):"));
         int minInicio = Integer.parseInt(JOptionPane.showInputDialog("Digite os minutos de início do jogo (0 a 59):"));

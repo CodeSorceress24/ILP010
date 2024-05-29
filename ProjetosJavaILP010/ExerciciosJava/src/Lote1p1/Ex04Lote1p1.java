@@ -6,7 +6,7 @@ versão 1.0
 */
 import javax.swing.JOptionPane;
 public class Ex04Lote1p1 {
-    public static void main(String[] args) {
+    public static void main(String[] args){
         // declaração de variáveis.
         double celsius, fahrenheit;
         // entrada de dados.

@@ -6,7 +6,7 @@ Versão 1.0
 */
 import javax.swing.JOptionPane;
 public class Ex19Lote1p1 {
-    public static void main(String[] args) {
+    public static void main(String[] args){
         // declaração de variáveis. 
         Double valor1, valor2, maior;
         // entrada de dados.

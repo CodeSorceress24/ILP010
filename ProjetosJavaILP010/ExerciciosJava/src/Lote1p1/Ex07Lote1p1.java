@@ -6,7 +6,7 @@ Versão 1.0
 */
 import javax.swing.JOptionPane;
 public class Ex07Lote1p1 {
-    public static void main(String[] args) {
+    public static void main(String[] args){
         // declaração de variáveis.
         int comprimento, largura, altura, volume;
         // entrada de dados.

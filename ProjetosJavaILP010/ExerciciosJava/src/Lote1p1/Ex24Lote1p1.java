@@ -6,7 +6,7 @@ Versão 1.0
 */
 import javax.swing.JOptionPane;
 public class Ex24Lote1p1 {
-    public static void main(String[] args) {
+    public static void main(String[] args){
         // entrada de dados.
         int numero = Integer.parseInt(JOptionPane.showInputDialog("Digite um número inteiro:"));
         // processamento e saída de dados.
