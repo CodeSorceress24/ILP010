@@ -7,7 +7,7 @@ Versão 1.0
 import javax.swing.JOptionPane;
 import java.time.LocalDate;
 import java.time.Period;
-public class Ex30Lote1p1 {
+public class Ex30Lote1p1{
     public static void main(String[] args){
         // declaração das variáveis.
         int anoNascimento, mesNascimento, diaNascimento;
