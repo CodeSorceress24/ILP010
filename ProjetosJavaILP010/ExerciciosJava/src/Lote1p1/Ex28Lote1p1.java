@@ -6,11 +6,11 @@ Programa: Receba o preço atual e a média mensal de um produto. Calcule e mostr
 - Se a média mensal de vendas for maior ou igual a 1000 unidades e o preço atual for maior ou igual a 80 reais, o novo preço será o preço atual reduzido em 5%.
 - Para todas as outras condições, o novo preço será igual ao preço atual.
 Programador: Marcela Maciel, CodeSorceress24.
-Versão 1.0
+Versão 2.0
 */
 import javax.swing.JOptionPane;
 public class Ex28Lote1p1 {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         // declaração das variáveis.
         double precoAtual, precoNovo;
         int vendaMensal;

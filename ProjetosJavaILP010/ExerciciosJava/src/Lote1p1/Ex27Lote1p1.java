@@ -2,11 +2,11 @@ package Lote1p1;
 /* 
 Programa: Receba o número de voltas, a extensão do circuito (em metros) e o tempo de duração (minutos). Calcule e mostre a velocidade média em km/h.
 Programador: Marcela Maciel, CodeSorceress24.
-Versão 1.0
+Versão 2.0
 */
 import javax.swing.JOptionPane;
 public class Ex27Lote1p1 {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         // declaração das variáveis.
         int numeroVoltas;
         double extensaoCircuito, tempoDuracao, distanciaTotal, tempoDuracaoHoras, distanciaTotalKm, velocidadeMedia;

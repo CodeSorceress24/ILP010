@@ -2,11 +2,11 @@ package Lote1p1;
 /* 
 Programa: Receba o raio de uma circunferência. Calcule e mostre o comprimento da circunferência.
 Programador: Marcela Maciel, CodeSorceress24.
-Versão 1.0
+Versão 2.0
 */
 import javax.swing.JOptionPane;
 public class Ex11Lote1p1 {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         // declaração de variáveis.
         double raio, comprimento; 
         // entrada de dados.

@@ -2,11 +2,11 @@ package Lote1p1;
 /* 
 Programa: Receba a base e a altura de um triângulo. Calcule e mostre a sua área.
 Programador: Marcela Maciel, CodeSorceress24.
-Versão 1.0
+Versão 2.0
 */
 import javax.swing.JOptionPane;
 public class Ex03Lote1p1 {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         // declaração de variáveis.
         int base, altura, area;
         // entrada de dados.

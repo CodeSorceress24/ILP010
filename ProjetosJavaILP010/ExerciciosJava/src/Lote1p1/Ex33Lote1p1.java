@@ -2,7 +2,7 @@ package Lote1p1;
 /* 
 Programa: Receba um número. Calcule e mostre a série 1 + 1/2 + 1/3 + ... + 1/N.
 Programador: Marcela Maciel, CodeSorceress24.
-Versão 1.0
+Versão 2.0
 */
 import javax.swing.JOptionPane;
 public class Ex33Lote1p1{
@@ -16,6 +16,6 @@ public class Ex33Lote1p1{
             soma += 1.0 / i;
         }
     // saída de dados.
-    JOptionPane.showMessageDialog(null, "A soma da série é: " + soma);
+    JOptionPane.showMessageDialog(null, "A soma da série é: " + soma + ".");
     }   
 }

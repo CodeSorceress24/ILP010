@@ -2,7 +2,7 @@ package Lote1p1;
 /* 
 Programa: Receba um número inteiro. Calcule e mostre o seu fatorial.
 Programador: Marcela Maciel, CodeSorceress24.
-Versão 1.0
+Versão 2.0
 */
 import javax.swing.JOptionPane;
 public class Ex32Lote1p1{

@@ -2,11 +2,11 @@ package Lote1p1;
 /* 
 Programa: Receba o tipo de investimento (1 = poupança e 2 = renda fixa) e o valor do investimento. Calcule e mostre o valor corrigido em 30 dias sabendo que a poupança = 3% e a renda fixa = 5%. Demais tipos não serão considerados.
 Programador: Marcela Maciel, CodeSorceress24.
-Versão 1.0
+Versão 2.0
 */
 import javax.swing.JOptionPane;
 public class Ex29Lote1p1 {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         // declaração das variáveis.
         int tipoInvestimento;
         double valorInvestimento, valorCorrigido;

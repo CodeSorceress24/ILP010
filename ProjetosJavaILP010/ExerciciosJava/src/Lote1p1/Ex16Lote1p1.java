@@ -2,11 +2,11 @@ package Lote1p1;
 /* 
 Programa: Receba a quantidade de horas trabalhadas, o valor por hora, o percentual de desconto e o número de descendentes. Calcule o salário que serão as horas trabalhadas x o valor por hora. Calcule o salário líquido (= Salário Bruto – desconto). A cada dependente será acrescido R$ 100 no Salário Líquido. Exiba o salário a receber.
 Programador: Marcela Maciel, CodeSorceress24.
-Versão 1.0
+Versão 2.0
 */
 import javax.swing.JOptionPane;
 public class Ex16Lote1p1 {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         // declaração de variáveis.
         Double horasTrabalhadas, valorHora, percentualDesconto, salarioBruto, salarioLiquido, salarioFinal;
         int qntdDescendentes;

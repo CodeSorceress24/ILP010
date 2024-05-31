@@ -2,11 +2,11 @@ package Lote1p1;
 /* 
 Programa: Receba os coeficientes A, B e C de uma equação do 2º grau (AX²+BX+C=0). Calcule e mostre as raízes reais (considerar que a equação possui 2 raízes).
 Programador: Marcela Maciel, CodeSorceress24.
-Versão 1.0
+Versão 2.0
 */
 import javax.swing.JOptionPane;
 public class Ex05Lote1p1 {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         // declaração de variáveis.
         double a, b, c, delta, raiz1, raiz2;
         // entrada de dados.

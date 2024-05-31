@@ -2,11 +2,11 @@ package Lote1p1;
 /* 
 Programa: Receba 2 valores inteiros. Calcule e mostre o resultado da diferença do maior pelo menor valor.
 Programador: Marcela Maciel, CodeSorceress24.
-Versão 1.0
+Versão 2.0
 */
 import javax.swing.JOptionPane;
 public class Ex18Lote1p1 {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         // declaração de variáveis. 
         int primeiroValor, segundoValor, diferença;
         // entrada de dados.

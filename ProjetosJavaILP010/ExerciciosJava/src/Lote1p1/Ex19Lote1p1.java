@@ -2,7 +2,7 @@ package Lote1p1;
 /* 
 Programa: Receba 2 valores reais. Mostre o maior deles. 
 Programador: Marcela Maciel, CodeSorceress24.
-Versão 1.0
+Versão 2.0
 */
 import javax.swing.JOptionPane;
 public class Ex19Lote1p1 {
@@ -17,7 +17,7 @@ public class Ex19Lote1p1 {
             maior = valor1;
         // saída de dados.
             JOptionPane.showMessageDialog(null, "O maior valor é: " + maior + ".");
-        }else{
+        } else {
             maior = valor2;
         // saída de dados.
         JOptionPane.showMessageDialog(null, "O maior valor é: " + maior + ".");

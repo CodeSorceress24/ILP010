@@ -2,11 +2,11 @@ package Lote1p1;
 /* 
 Programa: Receba 2 valores inteiros e diferentes. Mostre seus valores em ordem crescente.
 Programador: Marcela Maciel, CodeSorceress24.
-Versão 1.0
+Versão 2.0
 */
 import javax.swing.JOptionPane;
 public class Ex22Lote1p1 {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         // declaração de variáveis.
         int valor1, valor2;
         // entrada de dados.

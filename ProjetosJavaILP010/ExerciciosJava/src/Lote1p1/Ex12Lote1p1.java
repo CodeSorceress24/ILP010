@@ -6,7 +6,7 @@ Versão 1.0
 */
 import javax.swing.JOptionPane;
 public class Ex12Lote1p1 {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         // declaração de variáveis.
         int anoNascimento, anoAtual, idade, idadeFutura;
         // entrada de dados.
@@ -16,6 +16,6 @@ public class Ex12Lote1p1 {
         idade = anoAtual-anoNascimento;
         idadeFutura = idade+17;
         // saída de dados.
-        JOptionPane.showMessageDialog(null,"A idade atual é de: " + idade + " anos. E a idade futura será: " + idadeFutura);
+        JOptionPane.showMessageDialog(null,"A idade atual é de: " + idade + " anos. E a idade futura será: " + idadeFutura + ".");
     }
 }

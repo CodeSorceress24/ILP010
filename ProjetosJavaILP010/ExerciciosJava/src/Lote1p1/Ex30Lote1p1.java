@@ -2,13 +2,13 @@ package Lote1p1;
 /* 
 Programa: Receba a data de nascimento e atual em ano, mês e dia. Calcule e mostre a idade em anos, meses e dias, considerando os anos bissextos.
 Programador: Marcela Maciel, CodeSorceress24.
-Versão 1.0
+Versão 2.0
 */
 import javax.swing.JOptionPane;
 import java.time.LocalDate;
 import java.time.Period;
 public class Ex30Lote1p1{
-    public static void main(String[] args){
+    public static void main(String[] args) {
         // declaração das variáveis.
         int anoNascimento, mesNascimento, diaNascimento;
         int anoAtual, mesAtual, diaAtual;
