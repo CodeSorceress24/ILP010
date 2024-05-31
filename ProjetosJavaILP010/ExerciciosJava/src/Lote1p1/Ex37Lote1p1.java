@@ -10,7 +10,7 @@ public class Ex37Lote1p1{
     int N;
     StringBuilder serie = new StringBuilder();
     // entrada de dados.
-    N = Integer.parseInt(JOptionPane.showInputDialog("Digite um número inteiro: "));
+    N = Integer.parseInt(("Digite um número inteiro: "));
     // processamento de dados.
     int primeiro = 0;
     int segundo = 1;
