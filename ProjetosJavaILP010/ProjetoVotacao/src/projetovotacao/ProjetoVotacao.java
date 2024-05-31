@@ -5,7 +5,6 @@ Nome do programador: Paulo e Marcela.
 Data de desenvolvimento: 22/05/2024.
 Versão 1.0
 */
-package projetovotacao;
 import javax.swing.JOptionPane;
 import java.io.IOException;
 public class ProjetoVotacao
