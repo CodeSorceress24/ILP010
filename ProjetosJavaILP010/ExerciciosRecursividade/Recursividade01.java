@@ -1,7 +1,7 @@
 /* 
-Programa: Serie1 = (1+2+3+...+100)
+Programa: Série 1 = (1 + 2 + 3 + ... + 100).
 Programador: Marcela Maciel, CodeSorceress24.
-Versão 2.0
+Versão 1.0
 */
 public class Recursividade01 {
     // função recursiva para calcular a soma da série.
@@ -11,7 +11,7 @@ public class Recursividade01 {
         if (n == 0) {
             return 0;
         }
-        //chamada recursiva: soma n com a soma da série até n-1.
+        // chamada recursiva: soma n com a soma da série até n-1.
         else {
             return n + somaSerie(n - 1);
         }
