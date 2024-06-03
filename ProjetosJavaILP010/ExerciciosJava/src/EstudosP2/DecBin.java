@@ -1,5 +1,6 @@
+package EstudosP2;
 import java.util.Scanner;
-public class EstudosP2 {
+public class DecBin {
     public static void main(String[] args) {
         int numeroValido;
         // Obter um valor válido
